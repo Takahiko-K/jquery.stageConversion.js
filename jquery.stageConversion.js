@@ -1,7 +1,8 @@
 /*
  * jQuery stageConversion v0.1 - jQuery JavaScript Plugin
  * 
- *
+ * https://github.com/Takahiko-K/jquery.stageConversion.js
+ * 
  * Copyright (c) 2017 Takahiko-K
  * Licensed under the MIT License.
  */
