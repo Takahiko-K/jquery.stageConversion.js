@@ -3,7 +3,7 @@
  * 
  *
  * Copyright (c) 2017 Takahiko-K
- * Dual licensed under the MIT and GPL licenses.
+ * Licensed under the MIT License.
  */
 
     function stageConversionExec( id, durationNum) {
